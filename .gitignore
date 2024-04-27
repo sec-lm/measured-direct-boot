@@ -1,0 +1,3 @@
+OVMF.fd
+initrd.img-*
+vmlinuz-*
